@@ -1,0 +1,11 @@
+for initialise git hub repository on any folder
+ use.
+
+ git init
+
+ // check git status 
+   git status
+
+ // for ad file in github
+    use
+    git add filename  
